@@ -7,8 +7,8 @@
                     <ul class="timeline">
                         <li>
                             <a href="http://kafeinarts.vercel.app/">Code With Arif - (Sekarang Menjadi
-                                KafeinArts)</a> - 2023 - Saat Ini
-                            <p>Saya adalah mentor serta founder dari Code With Arif, CWA adalah sebuah platform belajar
+                                KafeinArts)</a> - 2023 
+                            <p> Saat Ini Saya adalah mentor serta founder dari Code With Arif, CWA adalah sebuah platform belajar
                                 online yang menyediakan berbagai macam kursus dan pelatihan dalam bidang ilmu komputer
                                 dan teknologi informasi. Platform ini biasanya tersedia dalam powerpoint atau video
                                 conference yang memungkinkan pengguna untuk melakukan kegiatan belajar mengajar secara
