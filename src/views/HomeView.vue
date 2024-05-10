@@ -1,7 +1,7 @@
 <template>
   <center>
     <div class="home py-5 mt-4">
-      <img style="border-radius:25%;" src="https://avatars.githubusercontent.com/u/68406328?v=4" alt="Ma Face"
+      <img style="border-radius:25%;" src="https://arca-olive.vercel.app/assets/profile/arif.PNG" alt="Ma Face"
         width="250px">
       <div class="desc mt-4">
         <h1 class="display-2">
