@@ -9,41 +9,22 @@
     </div>
     <div class="col">
       <p>
-      Arif Alexander adalah seorang programmer website dan aplikasi yang
-      berbakat, serta seorang game developer yang kreatif. Selain itu, dia juga
-      menjadi pengajar online yang berfokus pada teknologi komputer di
-      startup-nya yang bernama KafeinArts. Sebagai seorang pengajar, Arif
-      memiliki dedikasi yang tinggi untuk berbagi pengetahuan dan pengalamannya
-      dalam pengembangan teknologi komputer kepada para muridnya.
+        Arif Alexander is a talented website and application programmer, as well as a creative game developer. Apart from that, he is also an online teacher who focuses on computer technology at his startup called KaffeinArts. As a teacher, Arif is highly dedicated to sharing his knowledge and experience in developing computer technology with his students.
     </p>
     <p>
-      Sebagai seorang website dan application programmer, Arif dikenal karena
-      keahliannya dalam mengembangkan aplikasi-aplikasi inovatif dan responsif,
-      serta website yang menarik dan fungsional. Karya-karyanya selalu
-      mencerminkan kecintaannya terhadap desain yang estetis dan koding yang
-      efisien.
+      As a website and application programmer, Arif is known for his expertise in developing innovative and responsive applications, as well as attractive and functional websites. His work always reflects his love for aesthetic design and efficient coding.
     </p>
 
     <p>
-      Sebagai seorang game developer, Arif memiliki imajinasi yang luas dan
-      kemampuan teknis yang kuat dalam menciptakan game-game yang menarik dan
-      menghibur. Dia selalu berusaha untuk menyajikan pengalaman bermain game
-      yang unik dan tak terlupakan bagi para pemainnya.
+      As a game developer, Arif has a broad imagination and strong technical skills in creating interesting and entertaining games. He always strives to provide a unique and unforgettable gaming experience for his players.
     </p>
 
     <p>
-      Sebagai seorang pengajar online, Arif memiliki kemampuan untuk
-      menyampaikan materi-materi teknis dengan cara yang mudah dipahami oleh
-      para siswanya. Dia juga selalu berusaha untuk memberikan pengetahuan
-      terbaru dan solusi-solusi inovatif dalam bidang teknologi komputer kepada
-      para muridnya.
+      As an online teacher, Arif has the ability to convey technical material in a way that is easy for his students to understand. He also always tries to provide the latest knowledge and innovative solutions in the field of computer technology to his students.
     </p>
 
     <p>
-      Dengan dedikasinya dalam bidang programming, game development, dan
-      pengajaran teknologi komputer, Arif Alexander telah menciptakan jejak yang
-      menginspirasi di KafeinArts. Dengan semangatnya yang tak kenal lelah, dia
-      terus berinovasi dan berkontribusi dalam memajukan dunia teknologi.
+      With his dedication to programming, game development, and teaching computer technology, Arif Alexander has created an inspiring footprint at KafeinArts. With his tireless enthusiasm, he continues to innovate and contribute to advancing the world of technology.
     </p>
     </div>
    </div>

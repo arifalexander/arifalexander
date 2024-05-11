@@ -8,33 +8,15 @@
                         <li>
                             <a href="http://kafeinarts.vercel.app/">Code With Arif - (Sekarang Menjadi
                                 KafeinArts)</a> - 2023 
-                            <p> Saat Ini Saya adalah mentor serta founder dari Code With Arif, CWA adalah sebuah platform belajar
-                                online yang menyediakan berbagai macam kursus dan pelatihan dalam bidang ilmu komputer
-                                dan teknologi informasi. Platform ini biasanya tersedia dalam powerpoint atau video
-                                conference yang memungkinkan pengguna untuk melakukan kegiatan belajar mengajar secara
-                                real-time dan juga mendapatkan materi dalam bentuk powerpoint atau portable document
-                                format.</p>
+                            <p> Currently I am a mentor and founder of Code With Arif, CWA is an online learning platform that provides various courses and training in the fields of computer science and information technology. This platform is usually available in PowerPoint or video conference which allows users to carry out teaching and learning activities in real-time and also get material in PowerPoint or portable document format.</p>
                         </li>
                         <li>
                             <a href="http://arca-olive.vercel.app/">Arca Interactive</a> - 2022
-                            <p>Sebagai seorang desainer website yang berbakat, Anda telah memiliki pengalaman berharga
-                                dalam menciptakan tampilan dan pengalaman pengguna yang menarik di startup Arca
-                                Interactive. Dengan keahlian dalam merancang tata letak, grafis, dan elemen-elemen
-                                visual, Anda telah berhasil menciptakan website yang estetis dan fungsional. Di Arca
-                                Interactive, Anda berperan dalam merancang antarmuka website yang inovatif, memastikan
-                                bahwa setiap halaman web yang Anda desain memenuhi standar desain yang tinggi dan
-                                menciptakan pengalaman yang memikat bagi pengguna. Dengan dedikasi Anda terhadap desain
-                                website, Anda telah memberikan kontribusi yang berarti dalam memperkuat identitas merek
-                                dan pengalaman pengguna di startup Arca Interactive..</p>
+                            <p>As a talented website designer, you have had valuable experience in creating an attractive appearance and user experience at startup Arca Interactive. With expertise in designing layouts, graphics and visual elements, you have succeeded in creating an aesthetic and functional website. At Arca Interactive, you play a role in designing innovative website interfaces, ensuring that every web page you design meets high design standards and creates a compelling experience for users. With your dedication to website design, you have made a significant contribution to strengthening the brand identity and user experience at startup Arca Interactive.</p>
                         </li>
                         <li>
                             <a href="https://www.guepedia.com/">Guepedia</a> - 2021
-                            <p>Sebagai seorang frontend developer, Saya telah memiliki pengalaman yang luas
-                                dalam merancang dan mengembangkan antarmuka pengguna yang menarik dan responsif. Dengan
-                                keahliannya dalam HTML, CSS, dan JavaScript, Saya telah berhasil menciptakan pengalaman
-                                pengguna yang memikat melalui desain visual yang menarik dan fungsionalitas yang
-                                intuitif. Dalam setiap proyeknya, Saya selalu berfokus pada menciptakan tampilan yang
-                                estetis dan pengalaman pengguna yang optimal.
+                            <p>As a frontend developer, I have extensive experience in designing and developing attractive and responsive user interfaces. With expertise in HTML, CSS, and JavaScript with some framework like vue js for the javascript and bootstrap for the css framework, I have succeeded in creating engaging user experiences through engaging visual design and intuitive functionality. In every project, I always focus on creating an aesthetic appearance and optimal user experience.
                             </p>
                         </li>
                     </ul>
