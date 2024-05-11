@@ -6,8 +6,7 @@
                     <h4>Latest News</h4>
                     <ul class="timeline">
                         <li>
-                            <a href="http://kafeinarts.vercel.app/">Code With Arif - (Sekarang Menjadi
-                                KafeinArts)</a> - 2023 
+                            <a href="http://kafeinarts.vercel.app/">KafeinArts</a> - 2023 
                             <p> Currently I am a mentor and founder of Code With Arif, CWA is an online learning platform that provides various courses and training in the fields of computer science and information technology. This platform is usually available in PowerPoint or video conference which allows users to carry out teaching and learning activities in real-time and also get material in PowerPoint or portable document format.</p>
                         </li>
                         <li>
