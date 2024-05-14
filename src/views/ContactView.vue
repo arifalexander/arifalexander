@@ -71,7 +71,7 @@
                         </div>
                         <div class="box-btn">
                             <a
-                                href="https://api.whatsapp.com/send?phone=6285817048266&text=Halo%20kak%20arif%2C%20aku%20dapet%20nomor%20ini%20dari%20portfolio%20kaka%20nih%20">Explore
+                                href="https://whatsapp-form.vercel.app/">Explore
                                 Now</a>
                         </div>
                     </div>
