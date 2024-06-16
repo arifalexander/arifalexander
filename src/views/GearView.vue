@@ -11,12 +11,12 @@
             <!-- Mouse -->
             <div class="col-md-4">
                 <div class="card">
-                    <img src="https://images.unsplash.com/photo-1605773527852-c546a8584ea3?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+                    <img src="https://images.unsplash.com/photo-1594289852961-b10f74420f27?q=80&w=1631&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
                         class="card-img-top" alt="Mouse Image" />
                     <div class="card-body">
                         <h5 class="card-title">Mouse</h5>
                         <hr>
-                        <p class="card-text">Logitech G102 LightSync</p>
+                        <p class="card-text">Logitech Mx Master 3s</p>
                     </div>
                 </div>
             </div>
@@ -28,7 +28,7 @@
                     <div class="card-body">
                         <h5 class="card-title">Keyboard</h5>
                         <hr>
-                        <p class="card-text">Zifriend ZA646</p>
+                        <p class="card-text">Keychron K2</p>
                     </div>
                 </div>
             </div>
