@@ -11,24 +11,24 @@
             <!-- Mouse -->
             <div class="col-md-4">
                 <div class="card">
-                    <img src="https://images.unsplash.com/photo-1605773527852-c546a8584ea3?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+                    <img src="https://i.rtings.com/assets/products/y5Yw4NQR/logitech-lift/design-large.jpg?format=auto"
                         class="card-img-top" alt="Mouse Image" />
                     <div class="card-body">
                         <h5 class="card-title">Mouse</h5>
                         <hr>
-                        <p class="card-text">Logitech G102 LightSync</p>
+                        <p class="card-text">Logitech Vertical lift</p>
                     </div>
                 </div>
             </div>
             <!-- Keyboard -->
             <div class="col-md-4">
                 <div class="card">
-                    <img src="https://images.unsplash.com/photo-1619683322755-4545503f1afa?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+                    <img src="https://cdn.shopify.com/s/files/1/0059/0630/1017/t/5/assets/keychron-v2-custom-mechanical-keyboard-1661844254219.jpg?v=1661844257"
                         class="card-img-top" alt="Keyboard Image" />
                     <div class="card-body">
                         <h5 class="card-title">Keyboard</h5>
                         <hr>
-                        <p class="card-text">Keychron K2</p>
+                        <p class="card-text">Keychron K6</p>
                     </div>
                 </div>
             </div>
