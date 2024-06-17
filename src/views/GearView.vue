@@ -35,12 +35,12 @@
             <!-- Laptop -->
             <div class="col-md-4">
                 <div class="card">
-                    <img src="https://images.unsplash.com/photo-1455894127589-22f75500213a?q=80&w=1387&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+                    <img src="https://i.pcmag.com/imagery/reviews/03jdAB4o0uxCClXkEP50S8G-10.fit_scale.size_760x427.v1569483120.jpg"
                         class="card-img-top" width="115px" alt="Laptop Image" />
                     <div class="card-body">
                         <h5 class="card-title">Laptop</h5>
                         <hr>
-                        <p class="card-text">Macbook Pro 2012 MD101</p>
+                        <p class="card-text">Macbook Pro 2017</p>
                     </div>
                 </div>
             </div>
